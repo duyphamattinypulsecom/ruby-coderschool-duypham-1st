@@ -1,6 +1,6 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *blog app*
 
-**Prework assignment: blog app**
+**blog app** is a Ruby on Rails blog application.
 
 Submitted by: **Pham Quoc Duy**
 
